@@ -7,7 +7,7 @@
 -->
 
 ## Welcome to yee's GitHub
-
+<div align="center">
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -46,6 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeiChen&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+</div>
 <!--
 **yeeiChen/yeeiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
