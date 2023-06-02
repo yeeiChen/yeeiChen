@@ -2,13 +2,13 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-02 12:08:42
- * @LastEditTime: 2023-06-02 14:59:34
+ * @LastEditTime: 2023-06-02 15:01:44
  * @LastEditors: yeeChen
 -->
 
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me
 
 ```js
 class AboutMe {
@@ -26,7 +26,7 @@ class AboutMe {
 let Yee = new AboutMe('yee',23,'javaScript','0')
 ```
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"> im doing
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> im doing
 
 <div align="center">
 <!-- svg -->
