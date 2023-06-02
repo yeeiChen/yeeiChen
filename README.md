@@ -2,13 +2,17 @@
 
 ## Welcome to yee's GitHub
 
+## 🌠Coding Time
+> the projects I'm working on
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=yanglin56&theme=calm&show_icons=true) -->
 
-![Visitor Count](https://profile-counter.glitch.me/yeeiChen/count.svg)
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=yeeiChen&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeiChen&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeiChen&layout=compact)](https://github.com/yeeiChen/github-readme-stats)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeiChen&show_icons=true&theme=tokyonight)
 
 
 <!--
