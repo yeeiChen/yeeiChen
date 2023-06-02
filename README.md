@@ -9,7 +9,7 @@
 ## Welcome to yee's GitHub
 
 <!-- gif -->
-![image](https://github.com/yeeiChen/yeeiChen/blob/main/images/html.webp)
+![image](images/html.webp)
 <!-- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
