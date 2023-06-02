@@ -2,13 +2,13 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-02 12:08:42
- * @LastEditTime: 2023-06-02 14:46:01
+ * @LastEditTime: 2023-06-02 14:59:34
  * @LastEditors: yeeChen
 -->
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### A little more about me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 ```js
 class AboutMe {
@@ -24,6 +24,10 @@ class AboutMe {
 }
 
 let Yee = new AboutMe('yee',23,'javaScript','0')
+```
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"> im doing
+
 <div align="center">
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -48,13 +52,10 @@ let Yee = new AboutMe('yee',23,'javaScript','0')
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
-```
 
 <!-- just img 图片 -->
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-
-## 🌠Coding Time
+### 🌠Coding Time
 
 > the projects I'm working on
 
