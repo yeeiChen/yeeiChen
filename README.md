@@ -2,11 +2,12 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-02 12:08:42
- * @LastEditTime: 2023-06-02 15:01:44
+ * @LastEditTime: 2023-06-05 15:04:40
  * @LastEditors: yeeChen
 -->
 
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me
 
@@ -43,14 +44,14 @@ let Yee = new AboutMe('yee',23,'javaScript','0')
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/github.webp">
 </div>
 
 <!-- just img 图片 -->
