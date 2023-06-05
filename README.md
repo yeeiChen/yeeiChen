@@ -2,12 +2,12 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-02 12:08:42
- * @LastEditTime: 2023-06-05 15:16:24
+ * @LastEditTime: 2023-06-05 15:18:19
  * @LastEditors: yeeChen
 -->
 
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center"><img width="100%" src="../assets/header.png" /></p>
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me
 
