@@ -7,7 +7,8 @@
 -->
 
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to yee's GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img height="100%" width="100%" src="https://cdn.jsdelivr.net/gh/yeeiChen/yeeiChen/assets/header.png">
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me
 
