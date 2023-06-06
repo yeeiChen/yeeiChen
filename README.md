@@ -30,7 +30,7 @@ let Yee = new AboutMe('yee',23,'javaScript','0')
 
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> im doing
 
-> > > Editing ...
+> Editing ...
 
 <div align="center">
 <!-- svg -->
