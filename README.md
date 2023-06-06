@@ -2,7 +2,7 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-02 12:08:42
- * @LastEditTime: 2023-06-06 13:49:27
+ * @LastEditTime: 2023-06-06 13:54:17
  * @LastEditors: yeeChen
 -->
 
@@ -28,7 +28,7 @@ class AboutMe {
 let Yee = new AboutMe('yee',23,'javaScript','0')
 ```
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> im doing
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> What I'm doing
 
 > Editing ...
 
@@ -61,8 +61,6 @@ let Yee = new AboutMe('yee',23,'javaScript','0')
 <!-- just img 图片 -->
 
 ### 🌠Coding Time
-
-> the projects I'm working on
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=yanglin56&theme=calm&show_icons=true) -->
